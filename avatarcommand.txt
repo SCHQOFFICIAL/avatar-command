@@ -1,0 +1,8 @@
+Command : (prefix)avatar
+Code : 
+
+$nomention
+$title[$username’s Avatar]
+$image[$authorAvatar]
+$footer[$username’s Avatar.Free To Use.]
+$addTimestamp
